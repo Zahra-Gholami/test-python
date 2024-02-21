@@ -1,3 +1,4 @@
+print("hello dear ")
 username=input("enter your name: ")
 family = input("enter your family: ")
 if username == "zahra"  and family =="gholami" :
